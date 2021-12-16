@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>MasterMind</OriginalElement>
+  <nodes>
+    <node x="298.0" y="346.0">MasterMind.Main</node>
+    <node x="219.0" y="54.0">MasterMind.Funcionamiento</node>
+    <node x="-194.0" y="54.0">MasterMind.Tablero</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="282.5" y="251.0" />
+  <SelectedNodes>
+    <node>MasterMind.Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
